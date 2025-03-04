@@ -12,9 +12,10 @@ Proyek ini adalah aplikasi **Streamlit** yang digunakan untuk memantau dan menga
 Pastikan **Python** dan **Streamlit** sudah terinstal, lalu jalankan:  
 ```sh
 streamlit run dashboard.py
+```
 
 ## 📦 Instalasi Dependencies
 Sebelum menjalankan aplikasi, instal semua dependencies yang dibutuhkan:
-```
+```sh
 pip install -r requirements.txt
 ```
