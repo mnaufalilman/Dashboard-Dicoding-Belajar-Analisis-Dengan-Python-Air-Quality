@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load Data
-folder_path = "D:/Dicoding/Belajar Analisis Data dengan Python/Submission/Data"
+folder_path = "Data"
 
 # Ambil semua file CSV dalam folder
 all_files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
